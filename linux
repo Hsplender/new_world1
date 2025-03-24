@@ -1,0 +1,15 @@
+mkdir /opt/eri
+touch /opt/eri/ti
+if you would like to copy a file in another dir input
+cp file another file     remember add the dir
+chmod 776 /opt/eri/ti        4 is read  2 is write 1 is execute（x） 
+vim /opt/eri/ti
+i
+input your content
+set nu
+G+number to find number of rows what you want
+/word    to find your words in the number of rows
+press Esc
+:wq
+look at your terminal input
+top
